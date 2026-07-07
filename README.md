@@ -2,7 +2,7 @@
 # Cifar10
 
 
-<img src="pictures/CIFAR-10_examples.png" width="700" height="500" />
+<img src="CIFAR-10_examples.png" width="700" height="500" />
 
 # Introduction.
 In order to use this model you need to create the environment on you computer.This is a Keras easy type data for beginners of Computer Vision.
