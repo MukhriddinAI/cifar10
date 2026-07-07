@@ -44,7 +44,7 @@ Data consists of 10 different types of images in both train and test data.Each t
 
 - Now you can work on jupyter notebook
 
-     (environment_name) C:\cifar10>jupyter notebook
+      (environment_name) C:\cifar10>jupyter notebook
 
 
 # Step - 3 . Coding
